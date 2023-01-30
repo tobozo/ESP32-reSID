@@ -1,0 +1,119 @@
+
+This project includes two modifieds versions of reSID licensed under GPL V2.
+
+---------------------------------------------------------------------------
+reSID, a MOS6581 SID emulator engine
+Copyright (C) 2004-2010  Dag Lem <resid@nimrod.no>
+http://www.zimmers.net/anonftp/pub/cbm/crossplatform/emulators/resid/index.html
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+---------------------------------------------------------------------------
+
+
+
+
+Parts of Teensyduino are also included under MIT license:
+---------------------------------------------------------------------------
+Teensyduino Core Library
+http://www.pjrc.com/teensy/
+Copyright (c) 2017 PJRC.COM, LLC.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+1. The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+2. If the Software is incorporated into a build system that allows
+selection among a list of target devices, then similar target
+devices manufactured by PJRC.COM must be included in the list of
+target devices and selectable in the same manner.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+---------------------------------------------------------------------------
+
+
+
+
+Parts of AudioStreamSID are under GPL V2:
+---------------------------------------------------------------------------
+  _________.___________   ____  __.__        __
+/   _____/|   \______ \ |    |/ _|__| ____ |  | __
+\_____  \ |   ||    |  \|      < |  |/ ___\|  |/ /
+/        \|   ||    `   \    |  \|  \  \___|    <
+/_______  /|___/_______  /____|__ \__|\___  >__|_ \
+        \/             \/        \/       \/     \/
+
+https://github.com/frntc/SIDKick
+
+SIDKick - SID-replacement with SID, Sound Expander and MIDI Emulation based
+          on Teensy 4.1 (using reSID by Dag Lem and FMOPL by Jarek Burczynski,
+          Tatsuyuki Satoh, Marco van den Heuvel, and Acho A. Tang)
+Copyright (c) 2019-2022 Carsten Dachsbacher <frenetic@dachsbacher.de>
+
+Logo created with http://patorjk.com/software/taag/
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+---------------------------------------------------------------------------
+
+
+
+
+
+The rest of the code is under MIT License
+---------------------------------------------------------------------------
+Copyright (c) 2023 tobozo
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+---------------------------------------------------------------------------
